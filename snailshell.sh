@@ -27,7 +27,7 @@ function banner(){
 
                 **************************************
                 *    SNAIL SHELL FRAMEWORK  v.1      *
-                *  Developed by Declan Middleton     *
+                *  Developed by Declan (DevDeclann)  *
                 **************************************
     "
 }
