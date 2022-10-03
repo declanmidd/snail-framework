@@ -16,6 +16,10 @@ What is Snail Framework?
 - Snail Framework is a handy bag of tools automated hacking for Security Researchers. Snail Framework introduces (network mapping, port enumeration, exploitation, reverse shell generation, url scanning and undetectable backdoors for windows/mac/linux)
 
 Why the Snail?
-Snails are steady when travelling, protected & hidden when needed within their shell. They may be slow but are observative. Introducoing the SNAIL FRAMEWORK!! Slow and steady hacking, keeping you anonymous, clearing you're tracks.
+Snails are steady when travelling, protected & hidden when needed within their shell. They may be slow but are observative. 
+<br>
+<br>
+Introducing the SNAIL FRAMEWORK!! Slow and steady hacking, keeping tracks clear and providing proxies for anonymity.
 
+<br>
 The snail framework is open source, feel free to contact us if you would like to help suggest or develop this framework.
